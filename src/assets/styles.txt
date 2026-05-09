@@ -1,0 +1,26 @@
+Primary Colors:
+Backgrounds:
+
+#030712 (gray-950) - Main dark background
+#111827 (gray-900) - Card backgrounds
+#000000 (black with opacity) - Section overlays
+Text:
+
+#FFFFFF (white) - Headings
+#D1D5DB (gray-300) - Body text
+#9CA3AF (gray-400) - Muted text
+Accent Colors:
+Blue:
+
+#3B82F6 (blue-500) - Primary blue
+#60A5FA (blue-400) - Lighter blue for gradients
+#93C5FD (blue-300) - Tags
+Purple:
+
+#A855F7 (purple-500) - Primary purple
+#C084FC (purple-400) - Lighter purple for gradients
+Gradients:
+Headings: #60A5FA → #C084FC (blue-400 to purple-400)
+Buttons: #3B82F6 → #A855F7 (blue-500 to purple-500)
+Background glows: Blue/Purple with 20% opacity + blur
+Borders: #374151 (gray-700)
